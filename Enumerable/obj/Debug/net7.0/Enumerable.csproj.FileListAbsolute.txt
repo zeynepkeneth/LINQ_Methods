@@ -1,0 +1,14 @@
+/Users/banugenel/Projects/Enumerable/Enumerable/bin/Debug/net7.0/Enumerable
+/Users/banugenel/Projects/Enumerable/Enumerable/bin/Debug/net7.0/Enumerable.deps.json
+/Users/banugenel/Projects/Enumerable/Enumerable/bin/Debug/net7.0/Enumerable.runtimeconfig.json
+/Users/banugenel/Projects/Enumerable/Enumerable/bin/Debug/net7.0/Enumerable.dll
+/Users/banugenel/Projects/Enumerable/Enumerable/bin/Debug/net7.0/Enumerable.pdb
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.AssemblyInfoInputs.cache
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.AssemblyInfo.cs
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.csproj.CoreCompileInputs.cache
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.dll
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/refint/Enumerable.dll
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.pdb
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/Enumerable.genruntimeconfig.cache
+/Users/banugenel/Projects/Enumerable/Enumerable/obj/Debug/net7.0/ref/Enumerable.dll
